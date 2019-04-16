@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss',
   'example4':
-      'Better to sleep with a sober cannibal than a drunk Christian.''
+      'Better to sleep with a sober cannibal than a drunk Christian.'
 };
 
 function status(statusText) {
