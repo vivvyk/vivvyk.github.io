@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.', 
+      'God hath given you one face, and you make yourself another.',
   'example3':
       'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss',
   'example4':
