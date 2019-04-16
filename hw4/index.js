@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'To be, or not to be: that is the question: Whether ’tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them? ',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss',
   'example4':
-      'Man, I cried, how ignorant art thou in thy pride of wisdom!'
+      'Better to sleep with a sober cannibal than a drunk Christian.''
 };
 
 function status(statusText) {
