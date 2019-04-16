@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss',
   'example4':
-      '...to the last I grapple with thee; from hell's heart I stab at thee; for hate's sake I spit my last breath at thee.'
+      "...to the last I grapple with thee; from hell's heart I stab at thee; for hate's sake I spit my last breath at thee."
 };
 
 function status(statusText) {
