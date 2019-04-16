@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'To be, or not to be: that is the question: Whether ’tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them? ',
+      'There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.', 
   'example3':
       'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss',
   'example4':
